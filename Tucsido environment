@@ -1,0 +1,11 @@
+What is a Tucsido Environment?
+
+It is a non-production (testing) environment where banks, fintechs, and payment service providers can:
+
+Test transaction processing
+
+Validate API and message formats
+
+Simulate real-world payment scenarios
+
+Identify issues without impacting real customer money
