@@ -1,0 +1,6 @@
+Tucsido vs Production
+Aspect	Tucsido Environment	Production Environment
+Money	Dummy / simulated	Real customer money
+Risk	No financial risk	High financial & regulatory risk
+Purpose	Testing & validation	Live operations
+Access	Limited / controlled	Strictly regulated
