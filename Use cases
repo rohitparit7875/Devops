@@ -1,0 +1,9 @@
+Common use cases
+
+Testing UPI / IMPS / NEFT / RTGS flows
+
+Verifying CBS to payment switch integration
+
+Simulating success, failure, timeout, and reversal cases
+
+Load and performance testing
