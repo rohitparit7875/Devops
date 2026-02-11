@@ -1,0 +1,7 @@
+☁️ Amazon EC2 (Elastic Compute Cloud)
+ ✅ What it is:
+EC2 is a virtual server in the cloud. Instead of buying physical hardware, you launch servers on AWS.
+✅ How to explain in interview:
+👉 “EC2 allows us to create scalable virtual machines where we can install Linux/Windows, deploy applications, host websites, or run backend services.”
+✅ Real example:
+Hosting a web application on Ubuntu server.
