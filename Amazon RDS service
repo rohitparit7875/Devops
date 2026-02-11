@@ -1,0 +1,7 @@
+🗄️ Amazon RDS (Relational Database Service)
+ ✅ What it is:
+RDS is a managed database service (MySQL, PostgreSQL, etc.) — AWS handles backups, patching, scaling.
+✅ Interview line:
+👉 “RDS allows us to run relational databases without managing server infrastructure, providing automated backups and high availability.”
+✅ Real example:
+Application database running on MySQL RDS.
