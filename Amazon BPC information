@@ -1,0 +1,7 @@
+🌐 Amazon VPC (Virtual Private Cloud)
+ ✅ What it is:
+VPC is your private network inside AWS where you control IP range, subnets, routing, and security.
+✅ Interview line:
+👉 “VPC lets us design isolated cloud networks with public and private subnets, route tables, and gateways to securely host resources.”
+✅ Real example:
+Public subnet for web server, private subnet for database.
