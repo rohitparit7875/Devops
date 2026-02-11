@@ -1,0 +1,7 @@
+🔐 AWS IAM (Identity and Access Management)
+ ✅ What it is:
+IAM manages users, roles, and permissions in AWS.
+✅ Interview line:
+👉 “IAM helps control who can access AWS resources using policies, roles, and least-privilege access.”
+✅ Real example:
+Giving developer only EC2 access, not billing access.
