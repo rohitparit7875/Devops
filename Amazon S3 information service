@@ -1,0 +1,7 @@
+🪣 Amazon S3 (Simple Storage Service)
+ ✅ What it is:
+S3 is object storage used to store files like images, backups, logs, videos.
+✅ Interview line:
+👉 “S3 is highly durable object storage where data is stored in buckets and accessed via URLs. It’s commonly used for backups, static websites, and file storage.”
+✅ Real example:
+Uploading website images or storing logs.
