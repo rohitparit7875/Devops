@@ -1,0 +1,12 @@
+4️⃣ Monitoring & Logging
+ What it means:
+Track application performance and system health.
+Tools:
+Prometheus & Grafana
+ELK Stack (Elasticsearch, Logstash, Kibana)
+CloudWatch / Azure Monitor
+Why it’s important:
+Detect issues early
+Improve reliability
+Ensure uptime
+👉 Without monitoring, DevOps is incomplete
