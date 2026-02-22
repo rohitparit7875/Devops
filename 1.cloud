@@ -1,0 +1,11 @@
+1️⃣ Source Code Management (SCM)
+ What it means:
+Store and manage code in a central place.
+Tools:
+Git
+GitHub / GitLab / Bitbucket
+Why it’s important:
+Team collaboration
+Version control
+Easy rollback if something breaks
+👉 Every DevOps pipeline starts here
