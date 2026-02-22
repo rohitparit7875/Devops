@@ -1,0 +1,12 @@
+3️⃣ Infrastructure as Code (IaC) & Cloud Provisioning
+ What it means:
+Create cloud infrastructure using code instead of manual setup.
+Tools:
+Terraform
+AWS CloudFormation
+Azure ARM
+Why it’s important:
+Consistent environments
+Easy scaling
+Saves time & cost
+👉 Very important for cloud solution companies
