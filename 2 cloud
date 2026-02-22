@@ -1,0 +1,12 @@
+2️⃣ CI/CD – Continuous Integration & Deployment
+ What it means:
+Automatically build, test, and deploy code.
+Tools:
+Jenkins
+GitHub Actions
+GitLab CI/CD
+Why it’s important:
+Faster deployments
+Fewer human errors
+Quick bug detection
+👉 This is the heart of DevOps
